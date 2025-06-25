@@ -22,3 +22,21 @@ Requirement analysis is an important phase or process where the project team gat
 - Requirement Documentation: these involves Creating a detailed document that lists all functional and non-functional requirements, Writing user stories to describe functionalities from the user’s perspective and Creating use case diagrams to show interactions between users and the system.
 - Requirement Analysis and Modeling: entails prioritizing requirements based on their importance and impact on the project, assessing the feasibility of requirements in terms of technical, financial, and time constraints and also Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
 - Requirement Validation: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness,Defining clear acceptance criteria for each requirement to ensure they meet the expected standards and Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+
+# Types of Requirements
+
+##  Functional Requirements:
+ Functional requirements are product features that developers must implement to enable the users to achieve their goals. They define the basic system behavior under specific conditions.
+- **Functional Requirements Examples**: property search, user authentication, user registration, property listing, password recovery  and booking system.
+## Non-functional Requirements: 
+Non- functional are intended to specify ‘system qualities,’ various systems attributes that are not directly related to their functionality. These attributes do not tell what the system does but how well it does it. In contrast, functional requirements are expressed as Capabilities, Features, and Stories, which define what the system does in response to various inputs. Although they may seem subtle, NFRs are just as vital to system success. Failing to meet NFRs can result in systems that do not meet the needs of the business, Customers, market, or applicable regulations or standards.
+- **Non-Functional Requirements Examples**:
+- Performance: How fast a system should respond to requests
+-  Scalability: How well a system can handle an increase in users or workload
+-  Security: How well a system protects against unauthorized access and data breaches
+-  Usability: How easy a system is to use Maintainability: How easy it is to update and modify the system
+
+
+
+
