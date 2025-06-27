@@ -43,8 +43,13 @@ Non-functional are intended to specify ‘system qualities,’ various systems a
  ![Use case diagram](alx-booking-uc.png)
 
 
-
 # Acceptance Criteria
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.Acceptance criteria ensures all parties have a clear understanding of feature requirements.
+Provides a basis for testing and validation and also helps in maintaining quality and meeting user expectations.
+## Example:
+User must select available dates,duration of usage and must agree to terms and conditions.
+
  
 
 
