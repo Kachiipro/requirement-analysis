@@ -28,14 +28,23 @@ Requirement analysis is an important phase or process where the project team gat
 
 ##  Functional Requirements:
  Functional requirements are product features that developers must implement to enable the users to achieve their goals. They define the basic system behavior under specific conditions.
-- **Functional Requirements Examples**: property search, user authentication, user registration, property listing, password recovery  and booking system.
+- **Functional Requirements Examples**: property search, user authentication, user registration, property listing, password recovery,checkout and booking system.
 ## Non-functional Requirements: 
-Non- functional are intended to specify ‘system qualities,’ various systems attributes that are not directly related to their functionality. These attributes do not tell what the system does but how well it does it. In contrast, functional requirements are expressed as Capabilities, Features, and Stories, which define what the system does in response to various inputs. Although they may seem subtle, NFRs are just as vital to system success. Failing to meet NFRs can result in systems that do not meet the needs of the business, Customers, market, or applicable regulations or standards.
+Non-functional are intended to specify ‘system qualities,’ various systems attributes that are not directly related to their functionality. These attributes do not tell what the system does but how well it does it. In contrast, functional requirements are expressed as Capabilities, Features, and Stories, which define what the system does in response to various inputs. Although they may seem subtle, NFRs are just as vital to system success. Failing to meet NFRs can result in systems that do not meet the needs of the business, Customers, market, or applicable regulations or standards.
 - **Non-Functional Requirements Examples**:
 - Performance: How fast a system should respond to requests
 -  Scalability: How well a system can handle an increase in users or workload
 -  Security: How well a system protects against unauthorized access and data breaches
 -  Usability: How easy a system is to use Maintainability: How easy it is to update and modify the system
+  
+# Use Case Diagrams
+ Use case diagrams is a visual representation of how user interact with the system to achieve a specific goal. use case diagrams provide a clear visual representation of system functionalities. it also facilitates communication among stakeholders and development team. identifying and organizing system requirements is made easy by usecase diagram.
+
+
+
+# Acceptance Criteria
+ 
+
 
 
 
