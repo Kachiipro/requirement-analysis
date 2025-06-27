@@ -40,7 +40,7 @@ Non-functional are intended to specify ‘system qualities,’ various systems a
 # Use Case Diagrams
  Use case diagrams is a visual representation of how user interact with the system to achieve a specific goal. use case diagrams provide a clear visual representation of system functionalities. it also facilitates communication among stakeholders and development team. identifying and organizing system requirements is made easy by usecase diagram.
 
- ![Use case diagram](requirement-anaysis/alx-booking-uc.png)
+ ![Use case diagram](alx-booking-uc.png)
 
 
 
